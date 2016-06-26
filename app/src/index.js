@@ -1,0 +1,1 @@
+console.log('.love> is the most powerful force in the universe.');
